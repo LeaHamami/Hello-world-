@@ -1,6 +1,6 @@
 # TodoList
 
-<img src="https://github.com/LeaHamami/Angular-Material/blob/master/src/assets/img/s_desktop%20-1.JPG" width="800">
+<img src="https://github.com/LeaHamami/Hello-world-Angular/blob/master/src/assets/todoImg.PNG" width="800">
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.4.
 
